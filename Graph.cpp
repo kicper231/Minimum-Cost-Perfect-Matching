@@ -1,4 +1,5 @@
 #include "Graph.h"
+#include <iso646.h>
 
 Graph::Graph(int n, const list< pair<int, int> > & edges):
 	n(n),

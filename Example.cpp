@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+
 using namespace std;
 
 pair< Graph, vector<double> > CreateRandomGraph()

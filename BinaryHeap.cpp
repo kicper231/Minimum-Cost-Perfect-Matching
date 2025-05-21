@@ -1,4 +1,5 @@
 #include "BinaryHeap.h"
+#include <iso646.h>
 
 void BinaryHeap::Clear()
 {
